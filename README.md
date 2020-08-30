@@ -566,7 +566,7 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 **Notary or Witness Signatures on Return Envelope Required?**: No
 
-**Accept Postmarked Ballots Arriving After November 3, 2020?**: Yes
+**Accept Postmarked Ballots Arriving After November 3, 2020?**: No
 
 **Signature Mismatch Notification**: County election supervisors shall notify any voter whose signature is missing or doesn’t match records.
 
@@ -2707,7 +2707,7 @@ You may not drop your ballot off at your polling place on election day.
 
 **Deadline To Submit Absentee/Mail Ballot**: Three days after the election (by noon) if postmarked on or before November 3, 2020.
 
-**Ballot Drop Box?**: Unknown
+**Ballot Drop Box?**: Yes
 
 **Postage Paid?**: If the application (for absentee ballot) has been properly completed...the general registrar shall...send...the following items...(3) An envelope, properly addressed and postage prepaid, for the return of the (absentee) ballot.
 
@@ -2719,7 +2719,7 @@ You may not drop your ballot off at your polling place on election day.
 
 **Signature Mismatch Notification**: N/A
 
-**Correction Process**: N/A
+**Correction Process**:  Voters who make technical errors on their ballots may correct them as long as their original ballot was cast by Oct. 31.
 
 **How Absentee/Mail Ballots Are Verified**: Voters must sign a statement on the back of the return envelope in the presence of a witness, who must also sign. The secretary, in coordination with local election officials, shall implement a free-access system by which a voter may determine whether the voter's application for an absentee ballot has been received and accepted; and whether the voter's absentee ballot has been received and the current status of the absentee ballot. The electoral board of each county and city shall send a written explanation of the reason for rejection of an absentee ballot to the voter whose absentee ballot is rejected within 90 days of the date on which the ballot is rejected.
 
