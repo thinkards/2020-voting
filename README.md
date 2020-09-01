@@ -1378,7 +1378,7 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 **Notary or Witness Signatures on Return Envelope Required?**: No
 
-**Accept Postmarked Ballots Arriving After November 3, 2020?**: No
+**Accept Postmarked Ballots Arriving After November 3, 2020?**: Yes
 
 **Signature Mismatch Notification**: If a ballot is rejected more than five days before November 3, 2020 a replacement ballot is mailed; if rejected within five days, election officials must contact the voter via telephone or email to provide options for voting a replacement ballot.
 
