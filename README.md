@@ -432,7 +432,7 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 **In-person Photo or Non-Photo ID Required?**: Non-Photo ID; Non-Strict
 
-**No Excuse Absentee Voting?**: No
+**No Excuse Absentee Voting?**: Yes; COVID
 
 **Earliest Date Absentee/Mail Ballots Mailed Out**: September 19, 2020
 
@@ -1595,7 +1595,7 @@ You may not drop your ballot off at your polling place on election day.
 
 **In-person Photo or Non-Photo ID Required?**: N/A
 
-**No Excuse Absentee Voting?**: No
+**No Excuse Absentee Voting?**: Yes
 
 **Earliest Date Absentee/Mail Ballots Mailed Out**: September 29, 2020
 
