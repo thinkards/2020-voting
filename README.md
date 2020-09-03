@@ -802,7 +802,7 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 
 **In-person First Day Of Early Vote**: September 24, 2020
 
-**In-person Last Day Of Early Voting**: Oct 19, 2020
+**In-person Last Day Of Early Voting**: November 2, 2020
 
 **In-person voting Hours and Days**: Permanent early voting locations must remain open from the fifteenth day before an election during the hours of 8:30 AM - 4:30 PM or 9 AM - 5 PM on weekdays, Beginning eight days before an election, they must remain open 8:30 AM - 7 PM or 9 AM - 7 PM on weekdays, 9 AM - Noon on Saturdays and holidays, and 10 AM - 4 PM on Sundays, Permanent early voting locations must stay open at least 8 hours on any holiday and a total of at least 14 hours on the final weekend during the early voting period, Election authorities may decide the days and hours for temporary early voting locations, beginning the fortieth day before an election.
 
