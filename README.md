@@ -140,7 +140,7 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 
 **Election Day Registration?**: No
 
-**In-person First Day Of Early Vote**: October 7, 2020
+**In-person First Day Of Early Vote**: October 8, 2020
 
 **In-person Last Day Of Early Voting**: October 30, 2020
 
@@ -680,7 +680,7 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 
 **Election Day Registration?**: If you have missed the voter registration deadline, you can still register to vote and a cast a ballot at the same time during early voting at early walk-in locations and on November 3, 2020 at your polling place. Contact your Local Election Office if you have any questions.
 
-**In-person First Day Of Early Vote**: N/A
+**In-person First Day Of Early Vote**: Oct. 24
 
 **In-person Last Day Of Early Voting**: N/A
 
@@ -740,9 +740,9 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 
 **Election Day Registration?**: If you have missed the voter registration deadline, you can still register to vote and a cast a ballot at the same time during early voting or on November 3, 2020. Simply go to your regular polling place or early voting site to register and vote. You will need to show proof of residence and a photo ID. Contact your Local Election Office if you have any questions.
 
-**In-person First Day Of Early Vote**: On or before October 12, 2020 . Not all counties conduct early voting. Voters should contact their county elections office for additional information.
+**In-person First Day Of Early Vote**: October 19, 2020. Not all counties conduct early voting. Voters should contact their county elections office for additional information.
 
-**In-person Last Day Of Early Voting**: October 30, 2020 . Not all counties conduct early voting. Voters should contact their county elections office for additional information.
+**In-person Last Day Of Early Voting**: October 30, 2020. Not all counties conduct early voting. Voters should contact their county elections office for additional information.
 
 **In-person voting Hours and Days**: Not specified
 
@@ -802,7 +802,7 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 
 **In-person First Day Of Early Vote**: September 24, 2020
 
-**In-person Last Day Of Early Voting**: November 2, 2020
+**In-person Last Day Of Early Voting**: Oct 19, 2020
 
 **In-person voting Hours and Days**: Permanent early voting locations must remain open from the fifteenth day before an election during the hours of 8:30 AM - 4:30 PM or 9 AM - 5 PM on weekdays, Beginning eight days before an election, they must remain open 8:30 AM - 7 PM or 9 AM - 7 PM on weekdays, 9 AM - Noon on Saturdays and holidays, and 10 AM - 4 PM on Sundays, Permanent early voting locations must stay open at least 8 hours on any holiday and a total of at least 14 hours on the final weekend during the early voting period, Election authorities may decide the days and hours for temporary early voting locations, beginning the fortieth day before an election.
 
@@ -1280,7 +1280,7 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 
 **Election Day Registration?**: No
 
-**In-person First Day Of Early Vote**: October 23, 2020
+**In-person First Day Of Early Vote**: October 17, 2020
 
 **In-person Last Day Of Early Voting**: October 30, 2020. In light of COVID-19, the state will have more specific instructions on early voting procedures at a later date.
 
@@ -1340,7 +1340,7 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 
 **Election Day Registration?**: If you have missed the voter registration deadline, you can still register to vote and a cast a ballot at the same time during early voting or on November 3, 2020. If you plan to register in person within 14 days of November 3, 2020, you will need to present proof of residency. To register under these rules, Contact your Local Election Office with any questions.
 
-**In-person First Day Of Early Vote**: September 19, 2020
+**In-person First Day Of Early Vote**: September 24, 2020
 
 **In-person Last Day Of Early Voting**: November 2, 2020. Varies by county. Voters should contact their county elections office for additional information.
 
@@ -1643,7 +1643,7 @@ You may not drop your ballot off at your polling place on election day.
 
 **Election Day Registration?**: No
 
-**In-person First Day Of Early Vote**: October 4, 2020
+**In-person First Day Of Early Vote**: October 5, 2020
 
 **In-person Last Day Of Early Voting**: November 2, 2020
 
@@ -1883,7 +1883,7 @@ You may not drop your ballot off at your polling place on election day.
 
 **Election Day Registration?**: N/A. New Mexico will begin same-day registration in 2021.
 
-**In-person First Day Of Early Vote**: October 6, 2020
+**In-person First Day Of Early Vote**: October 17, 2020
 
 **In-person Last Day Of Early Voting**: October 31, 2020
 
@@ -1945,7 +1945,7 @@ You may not drop your ballot off at your polling place on election day.
 
 **In-person First Day Of Early Vote**: October 24, 2020
 
-**In-person Last Day Of Early Voting**: November 1, 2020
+**In-person Last Day Of Early Voting**: November 3, 2020
 
 **In-person voting Hours and Days**: Open for at least eight hours between 7 AM and 8 PM each weekday during the early voting period, At least one early voting site shall be open until 8 PM on at least two weekdays in each calendar week during the early voting period. , Open for at least five hours between 9 AM and 6 PM on each Saturday, Sunday and legal holiday during the early voting period, Boards of elections may establish a greater number of hours for voting during the early voting period beyond what is required.
 
@@ -2363,7 +2363,7 @@ You may not drop your ballot off at your polling place on election day.
 
 **Election Day Registration?**: You may register in person on November 3, 2020 at your local Board of Canvassers but only for Presidential elections.
 
-**In-person First Day Of Early Vote**: N/A
+**In-person First Day Of Early Vote**: Oct. 14
 
 **In-person Last Day Of Early Voting**: N/A
 
@@ -2605,7 +2605,7 @@ If ID is not presented, the voter provides name and address and signs an affidav
 
 **Election Day Registration?**: No
 
-**In-person First Day Of Early Vote**: October 12, 2020
+**In-person First Day Of Early Vote**: October 13, 2020
 
 **In-person Last Day Of Early Voting**: October 30, 2020
 
