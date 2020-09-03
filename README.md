@@ -26,7 +26,9 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 **In-person Locations**: N/A
 
-**In-person Photo or Non-Photo ID Required?**: Photo ID; Non-Strict
+**In-person Photo or Non-Photo ID Required?**: Photo ID requested
+
+If no ID is presented, 2 election officials can sign an affidavit attesting to the voter's identity; otherwise the voter votes on a provisional ballot and must resturn to show an ID within 4 days.
 
 **No Excuse Absentee Voting?**: COVID is a valid excuse
 
@@ -86,7 +88,7 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 **In-person Locations**: Elections supervisors’ offices. Other locations as designated by election director
 
-**In-person Photo or Non-Photo ID Required?**: Non-Photo ID; Non-Strict
+**In-person Photo or Non-Photo ID Required?**: ID Requested; Photo Not Required.  An election official can waive the identification requirement if s/he knows the voter.
 
 **No Excuse Absentee Voting?**: Yes
 
@@ -146,7 +148,7 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 **In-person Locations**: Recorder’s office. Any other locations in the county the recorder deems necessary
 
-**In-person Photo or Non-Photo ID Required?**: Non-Photo ID; Strict
+**In-person Photo or Non-Photo ID Required?**: Strict Non-Photo ID.  If ID is not presented, the voter votes on a provisional ballot and must return to show ID within 5 days."
 
 **No Excuse Absentee Voting?**: Yes
 
@@ -160,7 +162,7 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 **Ballot Drop Box?**: Yes
 
-**Postage Paid?**: “The county recorder or other officer in charge of elections shall mail the early ballot and the envelope for its return postage prepaid to the address provided by the requesting elector…”
+**Postage Paid?**: "The county recorder or other officer in charge of elections shall mail the early ballot and the envelope for its return postage prepaid to the address provided by the requesting elector…"
 
 **Copy of ID Required for Absentee Voting?**: No
 
@@ -206,7 +208,7 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 **In-person Locations**: Offices of county clerk, Other locations as determined by county board of election commissioners
 
-**In-person Photo or Non-Photo ID Required?**: Photo ID; Non-Strict
+**In-person Photo or Non-Photo ID Required?**: Photo ID requested. If ID is not presented, a voter may cast a provisional ballot accompanied by a sworn statement that the voter is registered. The provisional ballot will be counted if the voter returns with valid identification or the board of election commissions does not determine that the ballot is invalid.
 
 **No Excuse Absentee Voting?**: COVID is a valid excuse
 
@@ -326,7 +328,7 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 **In-person Locations**: Determined by county election officials.
 
-**In-person Photo or Non-Photo ID Required?**: Non-Photo ID; Non-Strict
+**In-person Photo or Non-Photo ID Required?**: ID Requested; Photo Not Required Colorado holds all elections by mail, so this law impacts only voters who choose to vote in person on Election Day.
 
 **No Excuse Absentee Voting?**: All-mail election
 
@@ -400,7 +402,7 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 **Ballot Drop Box?**: Unknown
 
-**Postage Paid?**: Unknown
+**Postage Paid?**: Yes
 
 **Copy of ID Required for Absentee Voting?**: No
 
@@ -566,7 +568,7 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 **In-person Locations**: Main or branch offices of elections supervisors, Other sites designated by the elections supervisor (locations must provide all voters in that area with equal opportunity to vote)
 
-**In-person Photo or Non-Photo ID Required?**: Photo ID; Non-Strict
+**In-person Photo or Non-Photo ID Required?**: ID Requested; Photo Not Required.  If ID is not presented, a voter provides name, date of birth, and address, and signs under penalty of making a false statement.
 
 **No Excuse Absentee Voting?**: Yes
 
@@ -686,7 +688,7 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 **In-person Locations**: Clerks’ offices, Other sites designated by clerks
 
-**In-person Photo or Non-Photo ID Required?**: Photo ID; Non-Strict
+**In-person Photo or Non-Photo ID Required?**: ID requested; photo not required.  If ID is not presented, the voter recitese date of birth and address for corroboration.
 
 **No Excuse Absentee Voting?**: All-mail election
 
@@ -700,7 +702,7 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 **Ballot Drop Box?**: Yes
 
-**Postage Paid?**: “The mailed distribution and return of absentee ballots shall be at no cost to the voter. The State and counties shall share in the cost of all postage associated with the distribution and return of absentee.”
+**Postage Paid?**: “Yes. The mailed distribution and return of absentee ballots shall be at no cost to the voter. The State and counties shall share in the cost of all postage associated with the distribution and return of absentee.”
 
 **Copy of ID Required for Absentee Voting?**: No
 
@@ -746,7 +748,7 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 **In-person Locations**: Determined by county clerk
 
-**In-person Photo or Non-Photo ID Required?**: Photo ID; Non-Strict
+**In-person Photo or Non-Photo ID Required?**: Photo ID requested.  If ID is not presented, the voter signs an affidavit with name and address.
 
 **No Excuse Absentee Voting?**: Yes
 
@@ -760,7 +762,7 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 **Ballot Drop Box?**: Unknown
 
-**Postage Paid?**: “(2) The clerk shall issue a ballot, by mail, to every registered voter in a mail ballot precinct and shall affix postage to the return envelope sufficient to return the ballot.”
+**Postage Paid?**: “Yes. (2) The clerk shall issue a ballot, by mail, to every registered voter in a mail ballot precinct and shall affix postage to the return envelope sufficient to return the ballot.”
 
 **Copy of ID Required for Absentee Voting?**: No
 
@@ -866,7 +868,7 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 **In-person Locations**: Office of circuit court clerk, County election board may adopt a resolution to authorize the circuit court clerk to establish satellite offices for early voting
 
-**In-person Photo or Non-Photo ID Required?**: Photo ID; Strict
+**In-person Photo or Non-Photo ID Required?**: Strict Photo ID.  If ID is not presented, the voter votes on a provisional ballot and must return within 6 days to show an ID or sign an affidavit swearing to indigence or a religious objection.
 
 **No Excuse Absentee Voting?**: No
 
@@ -926,7 +928,7 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 **In-person Locations**: Commissioners’ offices, Satellite locations may be established by commissioner, Satellite location must be established upon receipt of a petition signed by at least 100 eligible electors requesting a specific location
 
-**In-person Photo or Non-Photo ID Required?**: Non-Photo ID; Non-Strict
+**In-person Photo or Non-Photo ID Required?**: ID requested; photo not required.  If ID is not presented, the voter is asked to sign an oath verifying their identity, and will be allowed to cast a regular ballot.
 
 **No Excuse Absentee Voting?**: Yes
 
@@ -986,7 +988,7 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 **In-person Locations**: Offices of county election , County election officers may designate satellite locations
 
-**In-person Photo or Non-Photo ID Required?**: Photo ID; Strict
+**In-person Photo or Non-Photo ID Required?**: Strict Photo ID.  If ID is not presented, the voter votes on a provisional ballot and must show ID in person or via mail or email before the canvass board meets.
 
 **No Excuse Absentee Voting?**: Yes
 
@@ -1106,7 +1108,7 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 **In-person Locations**: Registrars’ offices, Registrar may provide alternate location in the courthouse or a public building in the immediate vicinity thereof.  . One branch office of the registrar, as long as it is in a public building
 
-**In-person Photo or Non-Photo ID Required?**: Photo ID; Non-Strict
+**In-person Photo or Non-Photo ID Required?**: Photo ID requested.  If ID is not presented, the voter signs an affidavit and provides date of birth and other information from the poll book.
 
 **No Excuse Absentee Voting?**: No
 
@@ -1300,7 +1302,7 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 **Ballot Drop Box?**: Unknown
 
-**Postage Paid?**: Unknown
+**Postage Paid?**: Yes
 
 **Copy of ID Required for Absentee Voting?**: No
 
@@ -1346,7 +1348,7 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 **In-person Locations**: At least one location
 
-**In-person Photo or Non-Photo ID Required?**: Photo ID; Non-Strict
+**In-person Photo or Non-Photo ID Required?**: Photo ID requested.  If ID is not presented, the voter signs an affidavit and votes on a regular ballot.
 
 **No Excuse Absentee Voting?**: Yes
 
@@ -1420,7 +1422,7 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 **Ballot Drop Box?**: Unknown
 
-**Postage Paid?**: “Ballot return envelopes, with return postage provided, must be preaddressed to the auditor or clerk and the voter may return the ballot by mail or in person to the office of the auditor or clerk…”
+**Postage Paid?**: “Yes. Ballot return envelopes, with return postage provided, must be preaddressed to the auditor or clerk and the voter may return the ballot by mail or in person to the office of the auditor or clerk…”
 
 **Copy of ID Required for Absentee Voting?**: No
 
@@ -1469,7 +1471,7 @@ You may not drop your ballot off at your polling place on election day.
 
 **In-person Locations**: N/A
 
-**In-person Photo or Non-Photo ID Required?**: Photo ID; Strict
+**In-person Photo or Non-Photo ID Required?**: Strict Photo ID.  If ID is not presented, the voter votes on a provisional ballot and must return within 5 days to show ID or sign an affidavit attesting to a religious objection to being photographed.
 
 **No Excuse Absentee Voting?**: No
 
@@ -1529,7 +1531,7 @@ You may not drop your ballot off at your polling place on election day.
 
 **In-person Locations**: N/A
 
-**In-person Photo or Non-Photo ID Required?**: Non-Photo ID; Non-Strict
+**In-person Photo or Non-Photo ID Required?**: ID Requested; Photo Not Required.  If ID is not presented, the voter may cast a regular ballot if 2 election officials attest they know him/her.
 
 **No Excuse Absentee Voting?**: COVID is a valid excuse
 
@@ -1543,7 +1545,7 @@ You may not drop your ballot off at your polling place on election day.
 
 **Ballot Drop Box?**: Unknown
 
-**Postage Paid?**: “Mailing envelopes for use in returning ballots shall be printed with business reply permits so that any ballot returned by mail does not require postage. All fees and costs for establishing and maintaining the business reply and postage-free mail for all ballots cast shall be paid by the secretary of state through state appropriations.”
+**Postage Paid?**: “Yes. Mailing envelopes for use in returning ballots shall be printed with business reply permits so that any ballot returned by mail does not require postage. All fees and costs for establishing and maintaining the business reply and postage-free mail for all ballots cast shall be paid by the secretary of state through state appropriations.”
 
 **Copy of ID Required for Absentee Voting?**: No
 
@@ -1589,7 +1591,7 @@ You may not drop your ballot off at your polling place on election day.
 
 **In-person Locations**: Elections offices
 
-**In-person Photo or Non-Photo ID Required?**: Non-Photo ID; Non-Strict
+**In-person Photo or Non-Photo ID Required?**: ID Requested; Photo Not Required.  If ID is not presented, the voter votes on a provisional ballot and the signature on the ballot envelope is matched to the voter's signature on record.
 
 **No Excuse Absentee Voting?**: Yes
 
@@ -1723,7 +1725,7 @@ You may not drop your ballot off at your polling place on election day.
 
 **Ballot Drop Box?**: Unknown
 
-**Postage Paid?**: “3. The return envelope sent pursuant to subsection 1 must include postage prepaid by first-class mail if the absent voter is within the boundaries of the United States, its territories or possessions or on a military base.”
+**Postage Paid?**: “Yes. 3. The return envelope sent pursuant to subsection 1 must include postage prepaid by first-class mail if the absent voter is within the boundaries of the United States, its territories or possessions or on a military base.”
 
 **Copy of ID Required for Absentee Voting?**: No
 
@@ -1769,7 +1771,7 @@ You may not drop your ballot off at your polling place on election day.
 
 **In-person Locations**: N/A
 
-**In-person Photo or Non-Photo ID Required?**: Non-Photo ID; Non-Strict
+**In-person Photo or Non-Photo ID Required?**:If ID is not presented, the voter signs a challenged voter affidavit and votes a regular ballot. After the election a mailing is sent and the voter must sign and return it; if it is not returned, the voter will be investigated for voter fraud.
 
 **No Excuse Absentee Voting?**: COVID is a valid excuse
 
@@ -1843,7 +1845,7 @@ You may not drop your ballot off at your polling place on election day.
 
 **Ballot Drop Box?**: Unknown
 
-**Postage Paid?**: Unknown
+**Postage Paid?**: County clerks may offer pre-paid envelopes at their discretion
 
 **Copy of ID Required for Absentee Voting?**: No
 
@@ -2009,7 +2011,7 @@ You may not drop your ballot off at your polling place on election day.
 
 **In-person Locations**: Office of county board of elections, The county board of elections may choose to offer additional locations, subject to approval by the state board of elections. All sites must be open during the same days and hours.
 
-**In-person Photo or Non-Photo ID Required?**: Photo ID; Non-Strict
+**In-person Photo or Non-Photo ID Required?**: N/A. Federal court has issued an injunction to prevent the law from taking effect.
 
 **No Excuse Absentee Voting?**: Yes
 
@@ -2069,7 +2071,7 @@ You may not drop your ballot off at your polling place on election day.
 
 **In-person Locations**: At the discretion of county auditor
 
-**In-person Photo or Non-Photo ID Required?**: Non-Photo ID; Strict
+**In-person Photo or Non-Photo ID Required?**: If ID is not presented, a voter may cast a ballot that is set aside in a sealed envelope. The ballot is counted in the voter provides valid identification within six days of the election.
 
 **No Excuse Absentee Voting?**: Yes
 
@@ -2129,7 +2131,7 @@ You may not drop your ballot off at your polling place on election day.
 
 **In-person Locations**: Main office of board of elections, Board may conduct voting at a branch office only under certain conditions
 
-**In-person Photo or Non-Photo ID Required?**: Non-Photo ID; Strict
+**In-person Photo or Non-Photo ID Required?**: Strict Non-Photo ID.  If ID is not presented, the voter votes on a provisional ballot and must return to show ID within 10 days.
 
 **No Excuse Absentee Voting?**: Yes
 
@@ -2189,7 +2191,7 @@ You may not drop your ballot off at your polling place on election day.
 
 **In-person Locations**: At a location designated by the county election board. For counties of more than 25,000 registered voters or with an area of more than 1,500 sq. miles, more than one location may be designated
 
-**In-person Photo or Non-Photo ID Required?**: Non-Photo ID; Non-Strict
+**In-person Photo or Non-Photo ID Required?**: ID Requested; Photo Not Required.  In addition to photo IDs, a voter registration card is also permitted. If no ID is not presented, the voter votes on a provisional ballot and election officials verify the information provided.
 
 **No Excuse Absentee Voting?**: Yes
 
@@ -2263,7 +2265,7 @@ You may not drop your ballot off at your polling place on election day.
 
 **Ballot Drop Box?**: Yes
 
-**Postage Paid?**: “(1) Except as provided in subsection (2) of this section, for each election held in this state, electors shall be provided with a return identification envelope that may be returned by business reply mail. The state shall bear the cost of complying with this subsection.”
+**Postage Paid?**: “Yes. (1) Except as provided in subsection (2) of this section, for each election held in this state, electors shall be provided with a return identification envelope that may be returned by business reply mail. The state shall bear the cost of complying with this subsection.”
 
 **Copy of ID Required for Absentee Voting?**: No
 
@@ -2323,7 +2325,7 @@ You may not drop your ballot off at your polling place on election day.
 
 **Ballot Drop Box?**: TBD; court case
 
-**Postage Paid?**: Unknown
+**Postage Paid?**: Yes.  Once the county determines the voter is eligible, the Department of State's funding will allow the counties to send a postage-paid ballot-return envelope with the ballot to the voter for their easy return.
 
 **Copy of ID Required for Absentee Voting?**: No
 
@@ -2369,7 +2371,7 @@ You may not drop your ballot off at your polling place on election day.
 
 **In-person Locations**: N/A
 
-**In-person Photo or Non-Photo ID Required?**: Photo ID; Non-Strict
+**In-person Photo or Non-Photo ID Required?**: Photo ID requested.  If ID is not presented, the voter votes on a provisional ballot, and election officials match the signature against signatures on record.
 
 **No Excuse Absentee Voting?**: Yes
 
@@ -2429,7 +2431,7 @@ You may not drop your ballot off at your polling place on election day.
 
 **In-person Locations**: N/A
 
-**In-person Photo or Non-Photo ID Required?**: Photo ID; Non-Strict
+**In-person Photo or Non-Photo ID Required?**: ID Requested; Photo Not Required.  If a voter has a reasonable impediment to presenting a photo ID, he or she can show a voter registration card. Otherwise the voter who doesn't show an ID votes a provisional ballot and must show an ID within a few days of the election.
 
 **No Excuse Absentee Voting?**: No
 
@@ -2443,7 +2445,7 @@ You may not drop your ballot off at your polling place on election day.
 
 **Ballot Drop Box?**: Unknown
 
-**Postage Paid?**: Unknown
+**Postage Paid?**: Yes
 
 **Copy of ID Required for Absentee Voting?**: No
 
@@ -2489,7 +2491,9 @@ You may not drop your ballot off at your polling place on election day.
 
 **In-person Locations**: Office of the person in charge of elections
 
-**In-person Photo or Non-Photo ID Required?**: Photo ID; Non-Strict
+**In-person Photo or Non-Photo ID Required?**: Photo ID requested
+
+If ID is not presented, the voter provides name and address and signs an affidavit.
 
 **No Excuse Absentee Voting?**: Yes
 
@@ -2549,7 +2553,7 @@ You may not drop your ballot off at your polling place on election day.
 
 **In-person Locations**: County election commission office
 
-**In-person Photo or Non-Photo ID Required?**: Photo ID; Strict
+**In-person Photo or Non-Photo ID Required?**: If ID is not presented, the voter votes on a provisional ballot and must return within two days to show an ID or sign an affidavit attesting to indigence or a religious objection.
 
 **No Excuse Absentee Voting?**: No
 
@@ -2609,7 +2613,7 @@ You may not drop your ballot off at your polling place on election day.
 
 **In-person Locations**: In a room in the offices of the county clerk, or elsewhere as determined by the clerk, Each county has one main early voting center
 
-**In-person Photo or Non-Photo ID Required?**: Photo ID; Non-Strict
+**In-person Photo or Non-Photo ID Required?**: Photo ID requested.  Voters who do not possess an acceptable form of photo ID and cannot obtain one, may present a supporting form of ID and execute a Reasonable Impediment Declaration.
 
 **No Excuse Absentee Voting?**: No
 
@@ -2669,7 +2673,7 @@ You may not drop your ballot off at your polling place on election day.
 
 **In-person Locations**: In government offices as determined by election officer
 
-**In-person Photo or Non-Photo ID Required?**: Non-Photo ID; Non-Strict
+**In-person Photo or Non-Photo ID Required?**: ID Requested; Photo Not Required.  If ID is not presented, the county clerk can verify identity through some other means.
 
 **No Excuse Absentee Voting?**: All-mail election
 
@@ -2789,7 +2793,7 @@ You may not drop your ballot off at your polling place on election day.
 
 **In-person Locations**: Office of the general registrar. Additional locations in public buildings may be provided at local discretion.
 
-**In-person Photo or Non-Photo ID Required?**: Non-Photo ID; Non-Strict
+**In-person Photo or Non-Photo ID Required?**: ID Requested; Photo Not Required.  If ID is not presented, voter signs a statement affirming their identity, and then they may cast a regular ballot.
 
 **No Excuse Absentee Voting?**: Yes
 
@@ -2849,7 +2853,8 @@ You may not drop your ballot off at your polling place on election day.
 
 **In-person Locations**: Election offices or other locations designated by the county auditor.
 
-**In-person Photo or Non-Photo ID Required?**: Non-Photo ID; Non-Strict
+**In-person Photo or Non-Photo ID Required?**: ID Requested; Photo Not Required.  Washington holds all elections by mail, so this provision impacts few voters.
+
 
 **No Excuse Absentee Voting?**: All-mail election
 
@@ -2863,7 +2868,7 @@ You may not drop your ballot off at your polling place on election day.
 
 **Ballot Drop Box?**: Yes
 
-**Postage Paid?**: “(4)….Return envelopes for all election ballots must include prepaid postage.”
+**Postage Paid?**: “Yes. (4)….Return envelopes for all election ballots must include prepaid postage.”
 
 **Copy of ID Required for Absentee Voting?**: No
 
@@ -2909,7 +2914,7 @@ You may not drop your ballot off at your polling place on election day.
 
 **In-person Locations**: Courthouse or the annex next to the courthouse, County commission may designate additional areas, subject to requirements prescribed by the Secretary of State
 
-**In-person Photo or Non-Photo ID Required?**: Non-Photo ID; Non-Strict
+**In-person Photo or Non-Photo ID Required?**: ID requested; photo not required.   If ID is not presented, the voter may vote a provisional ballot and may provide ID to the election inspectors before the polls close or to the municipal clerk no later than 4pm on the Friday following Election Day.Non-Photo ID; Non-Strict
 
 **No Excuse Absentee Voting?**: COVID is a valid excuse
 
@@ -2969,7 +2974,7 @@ You may not drop your ballot off at your polling place on election day.
 
 **In-person Locations**: Clerks’ offices
 
-**In-person Photo or Non-Photo ID Required?**: Photo ID; Strict
+**In-person Photo or Non-Photo ID Required?**: String photo ID
 
 **No Excuse Absentee Voting?**: Yes
 
