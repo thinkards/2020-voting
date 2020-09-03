@@ -12,6 +12,8 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 [Ballot Tracker](https://myinfo.alabamavotes.gov/VoterView/AbsenteeBallotSearch.do)
 
+[Drop Off Locator](https://www.dropoffballot.com/#7/33.1460285/-86.7520085)
+
 **Voter Registration Deadline(s)**: In Person: October 19, 2020, By Mail: Postmarked October 19, 2020, Online: October 19, 2020
 
 **Election Day Registration?**: No
@@ -69,6 +71,8 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 [Absentee Ballot Request](https://absenteeballotapplication.alaska.gov/)
 
 [Ballot Tracker](https://myvoterinformation.alaska.gov/)
+
+[Drop Off Locator](https://www.dropoffballot.com/#7/65/-150)
 
 **Voter Registration Deadline(s)**: In Person: October 4, 2020, By Mail: Postmarked October 3, 2020, Online: October 4, 2020
 
@@ -128,6 +132,8 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 [Ballot Tracker](https://my.arizona.vote/AbsenteeTracker.aspx)
 
+[Drop Off Locator](https://www.dropoffballot.com/#7/35/-113)
+
 **Voter Registration Deadline(s)**: In Person: October 5, 2020, By Mail: Postmarked October 5, 2020, Online: October 5, 2020
 
 **Election Day Registration?**: No
@@ -185,6 +191,8 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 [Absentee Ballot Request](https://www.sos.arkansas.gov/elections/voter-information/absentee-voting)
 
 [Ballot Tracker](https://www.voterview.ar-nova.org/voterview)
+
+[Drop Off Locator](https://www.dropoffballot.com/#7/35/-93)
 
 **Voter Registration Deadline(s)**: In Person: October 5, 2020, By Mail: Postmarked October 5, 2020, Online: N/A
 
@@ -244,6 +252,8 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 [Ballot Tracker](https://california.ballottrax.net/voter/)
 
+**Ballot Tracker**: N/A
+
 **Voter Registration Deadline(s)**: In Person: November 3, 2020, By Mail: Postmarked October 19, 2020, Online: October 19, 2020
 
 **Election Day Registration?**: If the voter registration deadline has passed, you can still conditionally register to vote and cast a provisional ballot in person at your County Elections Office at any time up to and including November 3, 2020. Your provisional ballot will be counted when your County Elections Official verifies your voter registration.. Conditional registration may also be available in County Elections satellite offices and vote centers.
@@ -301,6 +311,8 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 **Absentee Ballot Request**: Automatically mailed to all registered voters
 
 [Ballot Tracker](https://www.sos.state.co.us/voter/pages/pub/olvr/findVoterReg.xhtml)
+
+[Drop Off Locator](https://www.dropoffballot.com/#7/38.75/-105)
 
 **Voter Registration Deadline(s)**: In Person: November 3, 2020, By Mail: Received October 26, 2020, Online: October 26, 2020.
 
@@ -360,6 +372,8 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 [Ballot Tracker](https://portaldir.ct.gov/sots/LookUp.aspx)
 
+[Drop Off Locator](https://www.dropoffballot.com/#7/42/-72)
+
 **Voter Registration Deadline(s)**: In Person: November 3, 2020, By Mail: Postmarked October 27, 2020, Online: October 27, 2020
 
 **Election Day Registration?**: If the voter registration deadline has passed, you can still register to vote in person at a designated November 3, 2020 Registration office. Contact your Local Election Office if you have any questions.
@@ -417,6 +431,8 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 [Absentee Ballot Request](https://elections.delaware.gov/services/voter/absentee/index.shtml)
 
 [Ballot Tracker](https://ivote.de.gov/VoterView)
+
+[Drop Off Locator](https://www.dropoffballot.com/#7/38/-76)
 
 **Voter Registration Deadline(s)**: In Person: October 10, 2020, By Mail: Postmarked October 10, 2020, Online: October 10, 2020
 
@@ -476,6 +492,8 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 [Ballot Tracker](https://www.dcboe.org/Voters/Absentee-Voting/Track-Absentee-Ballot)
 
+[Drop Off Locator](https://www.dropoffballot.com/#7/38.9037397/-77.02487599999999)
+
 **Voter Registration Deadline(s)**: In Person: November 3, 2020, with proof of residency, By Mail: Received October 13, 2020, Online: October 13, 2020
 
 **Election Day Registration?**: If you have missed the voter registration deadline, you can still register to vote and a cast a ballot at the same time during early voting or on November 3, 2020. Simply go to your regular polling place or early voting site to register and vote. Contact your Local Election Office if you have any questions. You will need to bring proof of residency, such as a government photo ID, or a copy of a current utility bill, bank statement, government check, or pay check that shows your current name and address.
@@ -533,6 +551,8 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 [Absentee Ballot Request](https://dos.myflorida.com/elections/for-voters/voting/vote-by-mail/)
 
 [Ballot Tracker](https://registration.elections.myflorida.com/CheckVoterStatus)
+
+[Drop Off Locator](https://www.dropoffballot.com/#7/29/-82)
 
 **Voter Registration Deadline(s)**: In Person: October 5, 2020, By Mail: Postmarked October 5, 2020, Online: October 5, 2020
 
@@ -592,6 +612,8 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 [Ballot Tracker](https://www.mvp.sos.ga.gov/MVP/mvp.do)
 
+[Drop Off Locator](https://www.dropoffballot.com/#7/33/-83)
+
 **Voter Registration Deadline(s)**: In Person: October 5, 2020, By Mail: Postmarked October 5, 2020, Online: October 5, 2020
 
 **Election Day Registration?**: No
@@ -650,6 +672,8 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 [Ballot Tracker](https://ballotstatus.hawaii.gov/Default)
 
+[Drop Off Locator](https://www.dropoffballot.com/#7/20/-160)
+
 **Voter Registration Deadline(s)**: In Person: November 3, 2020, By Mail: Postmarked October 5, 2020, Online: October 5, 2020
 
 **Election Day Registration?**: If you have missed the voter registration deadline, you can still register to vote and a cast a ballot at the same time during early voting at early walk-in locations and on November 3, 2020 at your polling place. Contact your Local Election Office if you have any questions.
@@ -705,6 +729,8 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 [In-person Find Polling Location](https://elections.sos.idaho.gov/ElectionLink/ElectionLink/ViewPollingLocation.aspx)
 
 [Absentee Ballot Request](https://elections.sos.idaho.gov/ElectionLink/ElectionLink/BeginAbsenteeRequest.aspx)
+
+[Drop Off Locator](https://www.dropoffballot.com/#7/44/-115)
 
 **Ballot Tracker**: N/A
 
@@ -764,6 +790,8 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 [Absentee Ballot Request](https://www.elections.il.gov/ElectionOperations/VotingByMail.aspx?MID=ELGeUv9wLSI%3d&T=637339639196359487)
 
+[Drop Off Locator](https://www.dropoffballot.com/#7/40.4793613/-88.9928693)
+
 **Ballot Tracker**: N/A
 
 **Voter Registration Deadline(s)**: In Person: October 13, 2020, after which you may register during the early voting period through November 3, 2020, By Mail: Postmarked October 6, 2020, Online: October 18, 2020.
@@ -821,6 +849,8 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 [In-person Find Polling Location](https://indianavoters.in.gov/)
 
 [Absentee Ballot Request](https://www.in.gov/sos/elections/2402.htm)
+
+[Drop Off Locator](https://www.dropoffballot.com/#7/40/-86)
 
 **Ballot Tracker**: N/A
 
@@ -882,6 +912,8 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 [Ballot Tracker](https://sos.iowa.gov/elections/absenteeballotstatus/absentee/search)
 
+[Drop Off Locator](https://www.dropoffballot.com/#7/41.5848808/-93.61928689999999)
+
 **Voter Registration Deadline(s)**: In Person: October 24, 2020. If you miss the deadline, you can also register to vote in-person during early vote or on November 3, 2020, By Mail: Postmarked October 19, 2020 or received October 24, 2020, Online: October 24, 2020.
 
 **Election Day Registration?**: If you have missed the voter registration deadline, you can still register to vote and a cast a ballot at the same time during early voting or on November 3, 2020. Simply go to your regular polling place or early voting site to register and vote. You should bring valid photo ID and, if the ID does not list your current address, also proof of residence. Contact your Local Election Office if you have any questions.
@@ -939,6 +971,8 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 [Absentee Ballot Request](https://absentee.vote.org/?state=kansas)
 
 [Ballot Tracker](https://myvoteinfo.voteks.org/voterview/)
+
+[Drop Off Locator](https://www.dropoffballot.com/#7/38.25/-98.75)
 
 **Voter Registration Deadline(s)**: In Person: October 13, 2020, By Mail: Postmarked October 13, 2020, Online: October 13, 2020
 
@@ -998,6 +1032,8 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 [Ballot Tracker](https://elect.ky.gov/Frequently-Asked-Questions/Pages/Absentee-Voting.aspx)
 
+[Drop Off Locator](https://www.dropoffballot.com/#7/37.7/-84.8)
+
 **Voter Registration Deadline(s)**: In Person: October 5, 2020, By Mail: Postmarked October 5, 2020, Online: October 5, 2020
 
 **Election Day Registration?**: No
@@ -1056,6 +1092,8 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 [Ballot Tracker](https://voterportal.sos.la.gov/)
 
+[Drop Off Locator](https://www.dropoffballot.com/#7/31/-92)
+
 **Voter Registration Deadline(s)**: In Person: October 5, 2020, By Mail: Postmarked October 5, 2020, Online: October 14, 2020.
 
 **Election Day Registration?**: No
@@ -1111,6 +1149,8 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 [In-person Find Polling Location](https://www1.maine.gov/portal/government/edemocracy/voter_lookup.php)
 
 [Absentee Ballot Request](https://apps.web.maine.gov/cgi-bin/online/AbsenteeBallot/index.pl)
+
+[Drop Off Locator](https://www.dropoffballot.com/#7/45/-68)
 
 **Ballot Tracker**: N/A
 
@@ -1172,6 +1212,8 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 [Ballot Tracker](https://voterservices.elections.maryland.gov/VoterSearch)
 
+[Drop Off Locator](https://www.dropoffballot.com/#7/39.25/-76.5)
+
 **Voter Registration Deadline(s)**: In Person: October 13, 2020 You may also register during early voting or on November 3, 2020 with proof of address. See Election Day registration instructions, By Mail: Postmarked October 13, 2020, Online: October 13, 2020
 
 **Election Day Registration?**: You can register to vote in-person during early voting and on November 3, 2020. You will need to bring your MVA-issued license, ID card, or change of address card, or a paycheck, bank statement, utility bill, or other government document that has your name and current address.
@@ -1229,6 +1271,8 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 [Absentee Ballot Request](https://www.sec.state.ma.us/ele/eleev/early-voting-by-mail.htm)
 
 [Ballot Tracker](https://www.sec.state.ma.us/wheredoivotema/track/trackmyballot.aspx)
+
+[Drop Off Locator](https://www.dropoffballot.com/#7/43/-72)
 
 **Voter Registration Deadline(s)**: In Person: October 24, 2020, By Mail: Postmarked October 24, 2020, Online: October 24, 2020.
 
@@ -1288,6 +1332,8 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 
 [Ballot Tracker](https://mvic.sos.state.mi.us/Voter/Index)
 
+[Drop Off Locator](https://www.dropoffballot.com/#7/43/-85)
+
 **Voter Registration Deadline(s)**: In Person: November 3, 2020 at your city or township clerk office. The voter registration deadline is October 19, 2020 if you submit an application form through a voter registration drive or deliver it to a county clerk or secretary of state office, By Mail: Postmarked October 19, 2020, Online: October 19, 2020
 
 **Election Day Registration?**: If you have missed the voter registration deadline, you can still register to vote and a cast a ballot at the same time during early voting or on November 3, 2020. If you plan to register in person within 14 days of November 3, 2020, you will need to present proof of residency. To register under these rules, Contact your Local Election Office with any questions.
@@ -1345,6 +1391,8 @@ This is a markdown/HTML version of this [original document](https://docs.google.
 [Absentee Ballot Request](https://www.sos.state.mn.us/elections-voting/other-ways-to-vote/vote-early-by-mail/)
 
 [Ballot Tracker](https://mnvotes.sos.state.mn.us/AbsenteeBallotStatus.aspx)
+
+[Drop Off Locator](https://www.dropoffballot.com/#7/47/-95)
 
 **Voter Registration Deadline(s)**: In Person: November 3, 2020, By Mail: Received October 13, 2020, Online: October 13, 2020
 
@@ -1405,6 +1453,8 @@ You may not drop your ballot off at your polling place on election day.
 
 [Absentee Ballot Request](https://www.sos.ms.gov/elections-voting/documents/voterinformationguide.pdf)
 
+[Drop Off Locator](https://www.dropoffballot.com/#7/33/-90)
+
 **Ballot Tracker**: N/A
 
 **Voter Registration Deadline(s)**: In Person: October 5, 2020, By Mail: Postmarked October 5, 2020, Online: N/A
@@ -1462,6 +1512,8 @@ You may not drop your ballot off at your polling place on election day.
 [In-person Find Polling Location](https://voteroutreach.sos.mo.gov/PRD/VoterOutreach/VOSearch.aspx)
 
 [Absentee Ballot Request](https://www.sos.mo.gov/CMSImages/ElectionGoVoteMissouri//2020MailInBallotRequest.pdf)
+
+[Drop Off Locator](https://www.dropoffballot.com/#7/38.75/-92.5)
 
 **Ballot Tracker**: N/A
 
@@ -1523,6 +1575,8 @@ You may not drop your ballot off at your polling place on election day.
 
 [Ballot Tracker](https://app.mt.gov/voterinfo/)
 
+[Drop Off Locator](https://www.dropoffballot.com/#7/46.5898784/-111)
+
 **Voter Registration Deadline(s)**: In Person: November 3, 2020, By Mail: Postmarked October 5, 2020 Received October 27, 2020, Online: N/A
 
 **Election Day Registration?**: If you have missed the voter registration deadline, you can still register to vote at your county election office through close of polls on November 3, 2020, except between noon and 5:00PM the day before the election. You'll have to register at the office of your Local Election Office -- not at a polling place. Contact your Local Election Office for questions about the process. Photo ID or proof or residency is required.
@@ -1580,6 +1634,8 @@ You may not drop your ballot off at your polling place on election day.
 [Absentee Ballot Request](https://sos.nebraska.gov/elections/early-voting-0)
 
 [Ballot Tracker](https://www.votercheck.necvr.ne.gov/voterview)
+
+[Drop Off Locator](https://www.dropoffballot.com/#7/42/-100)
 
 **Voter Registration Deadline(s)**: In Person: October 23, 2020, By Mail: Postmarked October 16, 2020. Received October 20, 2020, if there's an illegible postmark, Online: October 16, 2020
 
@@ -1639,6 +1695,8 @@ You may not drop your ballot off at your polling place on election day.
 
 [Ballot Tracker](https://www.nvsos.gov/votersearch/)
 
+[Drop Off Locator](https://www.dropoffballot.com/#7/39/-117)
+
 **Voter Registration Deadline(s)**: In Person: November 3, 2020, By Mail: Postmarked October 6, 2020, Online: October 29, 2020
 
 **Election Day Registration?**: You may register to vote in-person at the polling place either during early voting or on November 3, 2020. You must show a valid Nevada driver’s license or identification card at the polls to vote. If the identification does not have your current address, you must also show proof of residency . N/A
@@ -1697,6 +1755,8 @@ You may not drop your ballot off at your polling place on election day.
 
 [Ballot Tracker](https://app.sos.nh.gov/Public/AbsenteeBallot.aspx)
 
+[Drop Off Locator](https://www.dropoffballot.com/#7/44/-72)
+
 **Voter Registration Deadline(s)**: In Person: November 3, 2020. Before November 3, 2020, the last day to register is the last meeting of the Supervisors of the Checklist. The supervisors meet once, 6-13 days before the Election Day. Check your town/city website, or call your clerk's office for the date, time, and location of the Supervisor's meeting, By Mail: October 21, 2020, Online: N/A
 
 **Election Day Registration?**: If you have missed the voter registration deadline, you can still register to vote and a cast a ballot at the same time on November 3, 2020. Simply go to your regular polling place or early voting site to register and vote. Voters should bring a valid photo ID to vote. Voters that do not bring a valid photo ID execute a challenged voter affidavit form and will later receive a letter requesting confirmation they voted. Contact your Local Election Office for questions about the process or identification requirements.
@@ -1750,6 +1810,8 @@ You may not drop your ballot off at your polling place on election day.
 [Voter Registration](https://nj.gov/state/elections/voter-registration.shtml)
 
 [In-person Find Polling Location](https://voter.svrs.nj.gov/polling-place-search)
+
+[Drop Off Locator](https://www.dropoffballot.com/#7/40/-74)
 
 **Absentee Ballot Request**: Automatically mailed to all registered voters
 
@@ -1813,6 +1875,8 @@ You may not drop your ballot off at your polling place on election day.
 
 [Ballot Tracker](https://voterportal.servis.sos.state.nm.us/WhereToVote.aspx?tab=AbsenteeTracker&AspxAutoDetectCookieSupport=1)
 
+[Drop Off Locator](https://www.dropoffballot.com/#7/35/-106)
+
 **Voter Registration Deadline(s)**: In Person: October 31, 2020, By Mail: Postmarked October 6, 2020. However, an application may be accepted through October 9, 2020 if the application is postmarked before the deadline, Online: October 6, 2020
 
 **Election Day Registration?**: N/A. New Mexico will begin same-day registration in 2021.
@@ -1868,6 +1932,8 @@ You may not drop your ballot off at your polling place on election day.
 [In-person Find Polling Location](https://voterlookup.elections.ny.gov/)
 
 [Absentee Ballot Request](https://www.elections.ny.gov/VotingAbsentee.html)
+
+[Drop Off Locator](https://www.dropoffballot.com/#7/40.758896/-73.98513)
 
 **Ballot Tracker**: N/A
 
@@ -1929,6 +1995,8 @@ You may not drop your ballot off at your polling place on election day.
 
 [Ballot Tracker](https://vt.ncsbe.gov/RegLkup/)
 
+[Drop Off Locator](https://www.dropoffballot.com/#7/36/-79)
+
 **Voter Registration Deadline(s)**: In Person: October 9, 2020, By Mail: Postmarked October 9, 2020. If the postmark is missing or unclear, the application will still be . processed if it is Received October 14, 2020, Online: October 9, 2020
 
 **Election Day Registration?**: If an individual becomes qualified to vote between the registration deadline (the 25th day before November 3, 2020) and November 3, 2020, then the individual may apply to register on November 3, 2020 by submitting an application to: a member of the county board of elections, the county director of elections, or the chief judge or a judge of the precinct in which the person is eligible to vote. If the application is approved, the individual may vote the same day. This applies to those individuals who recently become naturalized citizens of the U.S. or who have restored to citizenship after a felony conviction, but it does not apply to individuals who were 17 years old and reach 18 after the registration deadline.
@@ -1986,6 +2054,8 @@ You may not drop your ballot off at your polling place on election day.
 [Absentee Ballot Request](https://vip.sos.nd.gov/absentee/Default.aspx)
 
 [Ballot Tracker](https://vip.sos.nd.gov/AbsenteeTracker.aspx)
+
+[Drop Off Locator](https://www.dropoffballot.com/#7/48/-100.5)
 
 **Voter Registration Deadline(s)**: North Dakota does not have voter registration. You simply need to bring valid proof of ID and residency to the polls in order to vote.
 
@@ -2045,6 +2115,8 @@ You may not drop your ballot off at your polling place on election day.
 
 [Ballot Tracker](https://www.sos.state.oh.us/elections/voters/toolkit/ballot-tracking/)
 
+[Drop Off Locator](https://www.dropoffballot.com/#7/40/-83)
+
 **Voter Registration Deadline(s)**: In Person:October 5, 2020, By Mail: Postmarked October 5, 2020, Online: October 5, 2020
 
 **Election Day Registration?**: No
@@ -2102,6 +2174,8 @@ You may not drop your ballot off at your polling place on election day.
 [Absentee Ballot Request](https://www.ok.gov/elections/Voter_Info/Absentee_Voting/)
 
 [Ballot Tracker](https://okvoterportal.okelections.us/)
+
+[Drop Off Locator](https://www.dropoffballot.com/#7/36/-97)
 
 **Voter Registration Deadline(s)**: In Person: October 9, 2020, By Mail: Postmarked October 9, 2020, Online: N/A
 
@@ -2161,6 +2235,8 @@ You may not drop your ballot off at your polling place on election day.
 
 [Ballot Tracker](https://secure.sos.state.or.us/orestar/vr/showVoterSearch.do?lang=eng)
 
+[Drop Off Locator](https://www.dropoffballot.com/#7/44/-120)
+
 **Voter Registration Deadline(s)**: In Person: October 13, 2020, By Mail: Received October 13, 2020, Online: October 13, 2020
 
 **Election Day Registration?**: No
@@ -2218,6 +2294,8 @@ You may not drop your ballot off at your polling place on election day.
 [Absentee Ballot Request](https://www.pavoterservices.pa.gov/OnlineAbsenteeApplication/#/OnlineAbsenteeBegin)
 
 [Ballot Tracker](https://www.pavoterservices.pa.gov/Pages/BallotTracking.aspx)
+
+[Drop Off Locator](https://www.dropoffballot.com/#7/41/-77)
 
 **Voter Registration Deadline(s)**: In Person: October 19, 2020, By Mail: Received October 19, 2020, Online: October 19, 2020
 
@@ -2277,6 +2355,8 @@ You may not drop your ballot off at your polling place on election day.
 
 [Ballot Tracker](https://vote.sos.ri.gov/Home/UpdateVoterRecord?ActiveFlag=3)
 
+[Drop Off Locator](https://www.dropoffballot.com/#7/42/-71)
+
 **Voter Registration Deadline(s)**: In Person: October 4, 2020, By Mail: Postmarked October 3, 2020 If the postmark is missing or unclear and the registration form is received no later than October 9, 2020, the individual shall be presumed to have been registered by the deadline, Online:October 4, 2020
 
 **Election Day Registration?**: You may register in person on November 3, 2020 at your local Board of Canvassers but only for Presidential elections.
@@ -2334,6 +2414,8 @@ You may not drop your ballot off at your polling place on election day.
 [Absentee Ballot Request](https://info.scvotes.sc.gov/eng/voterinquiry/VoterInformationRequest.aspx?PageMode=AbsenteeRequest)
 
 [Ballot Tracker](https://info.scvotes.sc.gov/eng/voterinquiry/VoterInformationRequest.aspx?PageMode=AbsenteeInfo)
+
+[Drop Off Locator](https://www.dropoffballot.com/#7/34/-81)
 
 **Voter Registration Deadline(s)**: In Person: October 2, 2020, By Mail: Postmarked October 5, 2020, Online:October 4, 2020
 
@@ -2393,6 +2475,8 @@ You may not drop your ballot off at your polling place on election day.
 
 [Ballot Tracker](https://vip.sdsos.gov/VIPLogin.aspx)
 
+[Drop Off Locator](https://www.dropoffballot.com/#7/45/-100)
+
 **Voter Registration Deadline(s)**: In Person: October 19, 2020, By Mail: Received October 19, 2020, Online: N/A
 
 **Election Day Registration?**: No
@@ -2451,6 +2535,8 @@ You may not drop your ballot off at your polling place on election day.
 
 [Ballot Tracker](https://tnmap.tn.gov/voterlookup/)
 
+[Drop Off Locator](https://www.dropoffballot.com/#7/35.9250637/-86.25)
+
 **Voter Registration Deadline(s)**: In Person: October 5, 2020, By Mail: Postmarked October 5, 2020, Online: October 5, 2020
 
 **Election Day Registration?**: No
@@ -2506,6 +2592,8 @@ You may not drop your ballot off at your polling place on election day.
 [In-person Find Polling Location](https://teamrv-mvp.sos.texas.gov/MVP/mvp.do)
 
 [Absentee Ballot Request](https://www.sos.texas.gov/elections/voter/reqabbm.shtml)
+
+[Drop Off Locator](https://www.dropoffballot.com/#7/32/-99.5)
 
 **Ballot Tracker**: N/A
 
@@ -2567,6 +2655,8 @@ You may not drop your ballot off at your polling place on election day.
 
 [Ballot Tracker](https://votesearch.utah.gov/voter-search/search/search-by-voter/track-mail-ballot)
 
+[Drop Off Locator](https://www.dropoffballot.com/#7/39/-112)
+
 **Voter Registration Deadline(s)**: In Person: October 27, 2020 in clerk's office, but may also register during early vote and on November 3, 2020. However, individuals must vote by provisional ballot if they: (i) register online or in person between October 20 and October 27, 2020, (ii) register during early voting, or (iii) register on November 3, 2020, By Mail: Postmarked October 5, 2020, Online: October 23, 2020
 
 **Election Day Registration?**: An individual who is not registered to vote may register to vote, and vote, on election day or during the early voting period described in Section 20A-3-601, by voting a provisional ballot, if: . the individual is otherwise legally entitled to vote the ballot; . the ballot is identical to the ballot for the precinct in which the individual resides;. the information on the provisional ballot form is complete; and. the individual provides valid voter identification and proof of residence to the poll worker. . More information on election day registration
@@ -2624,6 +2714,8 @@ You may not drop your ballot off at your polling place on election day.
 [Absentee Ballot Request](https://sos.vermont.gov/elections/voters/early-absentee-voting/)
 
 [Ballot Tracker](https://mvp.vermont.gov/)
+
+[Drop Off Locator](https://www.dropoffballot.com/#7/44/-73)
 
 **Voter Registration Deadline(s)**: In Person: November 3, 2020 (you must show proof of residence to register at the polls), By Mail: Received November 3, 2020, Online: November 3, 2020. But if you register online the day before or on November 3, 2020, your application may not be processed and your name may not appear on the checklist and you may be asked to fill out another application at the polls. To be sure your name appears on the checklist, please register by the Friday before the election.
 
@@ -2683,6 +2775,8 @@ You may not drop your ballot off at your polling place on election day.
 
 [Ballot Tracker](https://www.elections.virginia.gov/citizen-portal/)
 
+[Drop Off Locator](https://www.dropoffballot.com/#7/37.5/-78.25)
+
 **Voter Registration Deadline(s)**: In Person: October 13, 2020, By Mail: Postmarked October 13, 2020, Online: October 13, 2020
 
 **Election Day Registration?**: No
@@ -2740,6 +2834,8 @@ You may not drop your ballot off at your polling place on election day.
 **Absentee Ballot Request**: Automatically mailed to all registered voters
 
 [Ballot Tracker](https://voter.votewa.gov/WhereToVote.aspx#/login)
+
+[Drop Off Locator](https://www.dropoffballot.com/#7/47.25/-120)
 
 **Voter Registration Deadline(s)**: In Person: November 3, 2020, By Mail: Received October 26, 2020, Online: October 26, 2020
 
@@ -2799,6 +2895,8 @@ You may not drop your ballot off at your polling place on election day.
 
 [Ballot Tracker](https://services.sos.wv.gov/Elections/Voter/AbsenteeBallotTracking)
 
+[Drop Off Locator](https://www.dropoffballot.com/#7/38.5/-81)
+
 **Voter Registration Deadline(s)**: In Person: October 13, 2020, By Mail: Postmarked October 13, 2020, Online: October 13, 2020
 
 **Election Day Registration?**: No
@@ -2857,6 +2955,8 @@ You may not drop your ballot off at your polling place on election day.
 
 [Ballot Tracker](https://myvote.wi.gov/en-us/myvoterinfo)
 
+[Drop Off Locator](https://www.dropoffballot.com/#7/44.75/-90)
+
 **Voter Registration Deadline(s)**: In Person: November 3, 2020, By Mail: Postmarked October 14, 2020, Online: October 14, 2020
 
 **Election Day Registration?**: Individuals may register to vote in person at your polling place on November 3, 2020. All individuals must provide both a proof of residency document and proof of identification to register on election Day.
@@ -2914,6 +3014,8 @@ You may not drop your ballot off at your polling place on election day.
 [Absentee Ballot Request](https://sos.wyo.gov/Elections/State/AbsenteeVoting.aspx)
 
 [Ballot Tracker](https://sos.wyo.gov/Elections/Docs/WYCountyClerks_AbsRequest_VRChange.pdf)
+
+[Drop Off Locator](https://www.dropoffballot.com/#7/43/-107)
 
 **Voter Registration Deadline(s)**: In Person: November 3, 2020, By Mail: Postmarked October 20, 2020. After this date, individuals may register to vote by mail if their registration is also accompanied by an absentee ballot request, Online: N/A
 
