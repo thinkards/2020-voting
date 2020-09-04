@@ -870,7 +870,7 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 
 **In-person Photo or Non-Photo ID Required?**: Strict Photo ID.  If ID is not presented, the voter votes on a provisional ballot and must return within 6 days to show an ID or sign an affidavit swearing to indigence or a religious objection.
 
-**No Excuse Absentee Voting?**: No
+**No Excuse Absentee Voting?**: Yes; work is excusable
 
 **Earliest Date Absentee/Mail Ballots Mailed Out**: September 19, 2020
 
