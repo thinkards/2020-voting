@@ -40,8 +40,6 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 (by noon) and postmarked by the day before the election.
 
-**Ballot Drop Box?**: Unknown
-
 **Postage Paid?**: Unknown
 
 **Copy of ID Required for Absentee Voting?**: Yes
@@ -99,8 +97,6 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 **Absentee/Mail Application Due Date**: In Person: Received October 24, 2020, By Mail: Received October 24, 2020, Online: Received October 24, 2020.
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 or 10 days after the election if postmarked on or before November 3, 2020.
-
-**Ballot Drop Box?**: Unknown
 
 **Postage Paid?**: Unknown
 
@@ -160,8 +156,6 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 (by 7PM)
 
-**Ballot Drop Box?**: Yes
-
 **Postage Paid?**: "The county recorder or other officer in charge of elections shall mail the early ballot and the envelope for its return postage prepaid to the address provided by the requesting elector…"
 
 **Copy of ID Required for Absentee Voting?**: No
@@ -219,8 +213,6 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 **Absentee/Mail Application Due Date**: In Person: November 2, 2020, By Mail: Received October 27, 2020, Online: N/A
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 (by 7:30PM) for mailed ballots or close of business the day before the election for hand-delivered ballots.
-
-**Ballot Drop Box?**: Unknown
 
 **Postage Paid?**: Unknown
 
@@ -280,8 +272,6 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 (before polls close) or three days after the election if postmarked on or before November 3, 2020.
 
-**Ballot Drop Box?**: Yes
-
 **Postage Paid?**: “(a) The elections official shall deliver all of the following to each qualified applicant: (2) All supplies necessary for the use and return of the ballot, including an identification envelope with prepaid postage for the return of the vote by mail ballot.”
 
 **Copy of ID Required for Absentee Voting?**: No
@@ -339,8 +329,6 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 **Absentee/Mail Application Due Date**: In Person: N/A, By Mail: If you need to change where your ballot is mailed, submit address change at least October 26, 2020, Online: N/A
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 (by 7PM)
-
-**Ballot Drop Box?**: Yes
 
 **Postage Paid?**: Unknown
 
@@ -400,8 +388,6 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 (before polls close)
 
-**Ballot Drop Box?**: Unknown
-
 **Postage Paid?**: Yes
 
 **Copy of ID Required for Absentee Voting?**: No
@@ -459,8 +445,6 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 **Absentee/Mail Application Due Date**: In Person: Received October 30, 2020, By Mail: Received October 30, 2020, Online: Received October 30, 2020
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 (before polls close)
-
-**Ballot Drop Box?**: Unknown
 
 **Postage Paid?**: “(c) Postage for all mailings made pursuant to this subsection shall be prepaid by the Department.”
 
@@ -520,8 +504,6 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 
 **Deadline To Submit Absentee/Mail Ballot**: Seven days after the election if postmarked on or before November 3, 2020.
 
-**Ballot Drop Box?**: Yes
-
 **Postage Paid?**: Unknown
 
 **Copy of ID Required for Absentee Voting?**: No
@@ -579,8 +561,6 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 **Absentee/Mail Application Due Date**: In Person: Received October 24, 2020, By Mail: Received October 24, 2020, Online: Received October 24, 2020.
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 (by 7PM)
-
-**Ballot Drop Box?**: Unknown
 
 **Postage Paid?**: Unknown
 
@@ -640,8 +620,6 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 (before polls close)
 
-**Ballot Drop Box?**: Yes
-
 **Postage Paid?**: Unknown
 
 **Copy of ID Required for Absentee Voting?**: No
@@ -699,8 +677,6 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 **Absentee/Mail Application Due Date**: In Person: N/A, By Mail: If you need to change where your ballot is mailed, submit address change at least October 27, 2020, Online: N/A
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 (before polls close)
-
-**Ballot Drop Box?**: Yes
 
 **Postage Paid?**: “Yes. The mailed distribution and return of absentee ballots shall be at no cost to the voter. The State and counties shall share in the cost of all postage associated with the distribution and return of absentee.”
 
@@ -760,8 +736,6 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 (by 8PM)
 
-**Ballot Drop Box?**: Unknown
-
 **Postage Paid?**: “Yes. (2) The clerk shall issue a ballot, by mail, to every registered voter in a mail ballot precinct and shall affix postage to the return envelope sufficient to return the ballot.”
 
 **Copy of ID Required for Absentee Voting?**: No
@@ -819,8 +793,6 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 **Absentee/Mail Application Due Date**: In Person: November 2, 2020, By Mail: Received October 29, 2020, Online: Received October 29, 2020
 
 **Deadline To Submit Absentee/Mail Ballot**: Fourteen days after the election if postmarked on or before November 3, 2020.
-
-**Ballot Drop Box?**: Unknown
 
 **Postage Paid?**: Unknown
 
@@ -880,8 +852,6 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020
 
-**Ballot Drop Box?**: Unknown
-
 **Postage Paid?**: Unknown
 
 **Copy of ID Required for Absentee Voting?**: No
@@ -939,8 +909,6 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 **Absentee/Mail Application Due Date**: In Person: November 2, 2020 unless the polls open at noon. If the polls open at noon, you may cast an absentee ballot at the county auditor's office from 8 Am to 11 AM on Election Day, By Mail: Received October 23, 2020 for the primary; October 24, 2020 for the general election, Online: N/A
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 (before polls close) or noon the Monday following the election if postmarked by the day before the election.
-
-**Ballot Drop Box?**: Unknown
 
 **Postage Paid?**: “The absentee ballot and affidavit envelope shall be enclosed in or with an unsealed return envelope marked postage paid which bears the same serial number as the affidavit envelope.”
 
@@ -1000,8 +968,6 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 
 **Deadline To Submit Absentee/Mail Ballot**: Three days after the election if postmarked before the close of polls on November 3, 2020.
 
-**Ballot Drop Box?**: Yes in Johnson County
-
 **Postage Paid?**: Unknown
 
 **Copy of ID Required for Absentee Voting?**: No, but an application for an absentee ballot must either include the applicant’s current and valid Kansas driver’s license number or non-driver ID number, or a photocopy of other identification.
@@ -1059,8 +1025,6 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 **Absentee/Mail Application Due Date**: In Person: Received October 27, 2020, By Mail: Received October 27, 2020, Online: October 9, 2020
 
 **Deadline To Submit Absentee/Mail Ballot**: Postmarked November 3, 2020 (before polls close)
-
-**Ballot Drop Box?**: Yes, county clerks will determine locations
 
 **Postage Paid?**: Unknown
 
@@ -1120,8 +1084,6 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 
 **Deadline To Submit Absentee/Mail Ballot**: The day before the election.
 
-**Ballot Drop Box?**: Unknown
-
 **Postage Paid?**: Unknown
 
 **Copy of ID Required for Absentee Voting?**: No
@@ -1179,8 +1141,6 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 **Absentee/Mail Application Due Date**: In Person: Received October 29, 2020, By Mail: Received October 29, 2020, Online: Received October 29, 2020
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 (before polls close)
-
-**Ballot Drop Box?**: Unknown
 
 **Postage Paid?**: Unknown
 
@@ -1240,8 +1200,6 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 
 **Deadline To Submit Absentee/Mail Ballot**: Postmarked on or before November 3, 2020.
 
-**Ballot Drop Box?**: Unknown
-
 **Postage Paid?**: The ballot/return envelope described...provided to a voter voting by absentee ballot shall include prepaid postage.
 
 **Copy of ID Required for Absentee Voting?**: No
@@ -1299,8 +1257,6 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 **Absentee/Mail Application Due Date**: In Person: Received by noon, November 2, 2020, but we recommend applying at least October 27, 2020, By Mail: Received by noon, November 2, 2020, but we recommend applying at least October 27, 2020, Online: N/A
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 (before polls close)
-
-**Ballot Drop Box?**: Unknown
 
 **Postage Paid?**: Yes
 
@@ -1360,8 +1316,6 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 (before polls close)
 
-**Ballot Drop Box?**: Yes
-
 **Postage Paid?**: Unknown
 
 **Copy of ID Required for Absentee Voting?**: No
@@ -1419,8 +1373,6 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 **Absentee/Mail Application Due Date**: In Person: Received November 2, 2020, By Mail: Received November 2, 2020, but we recommend applying at least October 27, 2020, Online: Received November 2, 2020.
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 (before polls close) for mailed/absentee ballots or 3PM on November 3, 2020 for hand-delivered ballots.
-
-**Ballot Drop Box?**: Unknown
 
 **Postage Paid?**: “Yes. Ballot return envelopes, with return postage provided, must be preaddressed to the auditor or clerk and the voter may return the ballot by mail or in person to the office of the auditor or clerk…”
 
@@ -1483,8 +1435,6 @@ You may not drop your ballot off at your polling place on election day.
 
 **Deadline To Submit Absentee/Mail Ballot**: Five business days after November 3, 2020 if postmarked on or before November 3, 2020.
 
-**Ballot Drop Box?**: Unknown
-
 **Postage Paid?**: Unknown
 
 **Copy of ID Required for Absentee Voting?**: No
@@ -1542,8 +1492,6 @@ You may not drop your ballot off at your polling place on election day.
 **Absentee/Mail Application Due Date**: In Person: Received November 2, 2020, By Mail: Received October 21, 2020, Online: N/A
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 (before polls close)
-
-**Ballot Drop Box?**: Unknown
 
 **Postage Paid?**: “Yes. Mailing envelopes for use in returning ballots shall be printed with business reply permits so that any ballot returned by mail does not require postage. All fees and costs for establishing and maintaining the business reply and postage-free mail for all ballots cast shall be paid by the secretary of state through state appropriations.”
 
@@ -1603,8 +1551,6 @@ You may not drop your ballot off at your polling place on election day.
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 (before polls close)
 
-**Ballot Drop Box?**: Yes
-
 **Postage Paid?**: Unknown
 
 **Copy of ID Required for Absentee Voting?**: No
@@ -1662,8 +1608,6 @@ You may not drop your ballot off at your polling place on election day.
 **Absentee/Mail Application Due Date**: In Person: Received October 23, 2020, By Mail: Received October 23, 2020, Online: N/A
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 (before polls close)
-
-**Ballot Drop Box?**: Yes in Douglas County
 
 **Postage Paid?**: Unknown
 
@@ -1723,8 +1667,6 @@ You may not drop your ballot off at your polling place on election day.
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 (before polls close)
 
-**Ballot Drop Box?**: Unknown
-
 **Postage Paid?**: “Yes. 3. The return envelope sent pursuant to subsection 1 must include postage prepaid by first-class mail if the absent voter is within the boundaries of the United States, its territories or possessions or on a military base.”
 
 **Copy of ID Required for Absentee Voting?**: No
@@ -1782,8 +1724,6 @@ You may not drop your ballot off at your polling place on election day.
 **Absentee/Mail Application Due Date**: In Person: No specific deadline, By Mail: No specific deadline. We recommend requesting your ballot at least October 27, 2020, Online: N/A
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 (by 5PM)
-
-**Ballot Drop Box?**: Unknown
 
 **Postage Paid?**: Unknown
 
@@ -1843,8 +1783,6 @@ You may not drop your ballot off at your polling place on election day.
 
 **Deadline To Submit Absentee/Mail Ballot**: Forty-eight hours after polls close if postmarked on or before November 3, 2020.
 
-**Ballot Drop Box?**: Unknown
-
 **Postage Paid?**: County clerks may offer pre-paid envelopes at their discretion
 
 **Copy of ID Required for Absentee Voting?**: No
@@ -1902,8 +1840,6 @@ You may not drop your ballot off at your polling place on election day.
 **Absentee/Mail Application Due Date**: In Person: Received October 29, 2020, By Mail: Received October 29, 2020, Online: Received October 29, 2020
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 (by 7PM)
-
-**Ballot Drop Box?**: Yes
 
 **Postage Paid?**: “A. The secretary of state shall prescribe the form of, procure and distribute to each county clerk a supply of: (1) official inner envelopes for use in sealing the completed mailed ballot; (2) official mailing envelopes for use in returning the official inner envelope to the county clerk, which shall be postage -paid; provided that only the official mailing envelope for absentee ballots in a political party primary shall contain a designation of party affiliation…”
 
@@ -1963,8 +1899,6 @@ You may not drop your ballot off at your polling place on election day.
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 (before polls close) for hand-delivered ballots or seven days after the election for mailed ballots postmarked the day before November 3, 2020.
 
-**Ballot Drop Box?**: Unknown
-
 **Postage Paid?**: Unknown
 
 **Copy of ID Required for Absentee Voting?**: No
@@ -2022,8 +1956,6 @@ You may not drop your ballot off at your polling place on election day.
 **Absentee/Mail Application Due Date**: In Person: Received by 5pm October 27, 2020, By Mail: Received by 5pm October 27, 2020, Online: N/A
 
 **Deadline To Submit Absentee/Mail Ballot**: Three days after the election if postmarked on or before November 3, 2020.
-
-**Ballot Drop Box?**: Unknown
 
 **Postage Paid?**: Unknown
 
@@ -2083,8 +2015,6 @@ You may not drop your ballot off at your polling place on election day.
 
 **Deadline To Submit Absentee/Mail Ballot**: The day before the election. Before the canvass if postmarked the day before the election.
 
-**Ballot Drop Box?**: Unknown
-
 **Postage Paid?**: Unknown
 
 **Copy of ID Required for Absentee Voting?**: No
@@ -2142,8 +2072,6 @@ You may not drop your ballot off at your polling place on election day.
 **Absentee/Mail Application Due Date**: In Person: Received by noon, October 31, 2020, By Mail: Received by noon, October 31, 2020, Online: N/A
 
 **Deadline To Submit Absentee/Mail Ballot**: Ten days after the election if postmarked by the day before November 3, 2020.
-
-**Ballot Drop Box?**: Yes, one per county
 
 **Postage Paid?**: Unknown
 
@@ -2203,8 +2131,6 @@ You may not drop your ballot off at your polling place on election day.
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 (by 7PM)
 
-**Ballot Drop Box?**: Unknown
-
 **Postage Paid?**: Unknown
 
 **Copy of ID Required for Absentee Voting?**: No
@@ -2262,8 +2188,6 @@ You may not drop your ballot off at your polling place on election day.
 **Absentee/Mail Application Due Date**: In Person: N/A, By Mail: If you need to change where your ballot is mailed, submit address change at least October 29, 2020, Online: N/A
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 (by 8PM)
-
-**Ballot Drop Box?**: Yes
 
 **Postage Paid?**: “Yes. (1) Except as provided in subsection (2) of this section, for each election held in this state, electors shall be provided with a return identification envelope that may be returned by business reply mail. The state shall bear the cost of complying with this subsection.”
 
@@ -2323,8 +2247,6 @@ You may not drop your ballot off at your polling place on election day.
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 (by 8PM)
 
-**Ballot Drop Box?**: TBD; court case
-
 **Postage Paid?**: Yes.  Once the county determines the voter is eligible, the Department of State's funding will allow the counties to send a postage-paid ballot-return envelope with the ballot to the voter for their easy return.
 
 **Copy of ID Required for Absentee Voting?**: No
@@ -2383,8 +2305,6 @@ You may not drop your ballot off at your polling place on election day.
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 (by 9PM)
 
-**Ballot Drop Box?**: Unknown
-
 **Postage Paid?**: “(d)(1) Upon the ballots becoming available, the secretary of state shall immediately issue and mail, by first-class mail, postage prepaid, a mail ballot to each eligible voter who has been certified. With respect to voters who have applied for these mail ballots under the provisions of § 17-20-2(1), the secretary of state shall include with the mail ballots a stamped, return envelope addressed to the board of elections.”
 
 **Copy of ID Required for Absentee Voting?**: No
@@ -2442,8 +2362,6 @@ You may not drop your ballot off at your polling place on election day.
 **Absentee/Mail Application Due Date**: In Person: Received October 31, 2020, By Mail: Received October 31, 2020, Online: N/A
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 (before polls close)
-
-**Ballot Drop Box?**: Unknown
 
 **Postage Paid?**: Yes
 
@@ -2505,8 +2423,6 @@ If ID is not presented, the voter provides name and address and signs an affidav
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 (before polls close)
 
-**Ballot Drop Box?**: Unknown
-
 **Postage Paid?**: Unknown
 
 **Copy of ID Required for Absentee Voting?**: No, but an application for an absentee ballot must be accompanied by either an oath verifying the information, administered by a notary public or authorized officer, or a copy of the voter’s ID.
@@ -2564,8 +2480,6 @@ If ID is not presented, the voter provides name and address and signs an affidav
 **Absentee/Mail Application Due Date**: In Person: Received October 27, 2020, By Mail: Received October 27, 2020, Online: N/A
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 (before polls close)
-
-**Ballot Drop Box?**: Unknown
 
 **Postage Paid?**: Unknown
 
@@ -2625,8 +2539,6 @@ If ID is not presented, the voter provides name and address and signs an affidav
 
 **Deadline To Submit Absentee/Mail Ballot**: The day after the election by 5PM if postmarked on or before November 3, 2020.
 
-**Ballot Drop Box?**: Unknown
-
 **Postage Paid?**: Unknown
 
 **Copy of ID Required for Absentee Voting?**: No
@@ -2684,8 +2596,6 @@ If ID is not presented, the voter provides name and address and signs an affidav
 **Absentee/Mail Application Due Date**: In Person: N/A, By Mail: If you need to change where your ballot is mailed, submit address change at least October 27, 2020, Online: N/A
 
 **Deadline To Submit Absentee/Mail Ballot**: Seven to 14 days after the election (by the county canvass date) if postmarked the day before the election.
-
-**Ballot Drop Box?**: Yes in Salt Lake County
 
 **Postage Paid?**: Unknown
 
@@ -2745,8 +2655,6 @@ If ID is not presented, the voter provides name and address and signs an affidav
 
 **Deadline To Submit Absentee/Mail Ballot**: Absentee votes must be returned to the town clerk's office before the close of business on the day before the election, or to the polling place by 7pm on November 3, 2020.
 
-**Ballot Drop Box?**: Unknown
-
 **Postage Paid?**: Unknown
 
 **Copy of ID Required for Absentee Voting?**: No
@@ -2804,8 +2712,6 @@ If ID is not presented, the voter provides name and address and signs an affidav
 **Absentee/Mail Application Due Date**: In Person: Received October 31, 2020, By Mail: Received October 23, 2020, Online: Received October 23, 2020.
 
 **Deadline To Submit Absentee/Mail Ballot**: Three days after the election (by noon) if postmarked on or before November 3, 2020.
-
-**Ballot Drop Box?**: Yes
 
 **Postage Paid?**: If the application (for absentee ballot) has been properly completed...the general registrar shall...send...the following items...(3) An envelope, properly addressed and postage prepaid, for the return of the (absentee) ballot.
 
@@ -2866,8 +2772,6 @@ If ID is not presented, the voter provides name and address and signs an affidav
 
 **Deadline To Submit Absentee/Mail Ballot**: Postmarked on or before November 3, 2020.
 
-**Ballot Drop Box?**: Yes
-
 **Postage Paid?**: “Yes. (4)….Return envelopes for all election ballots must include prepaid postage.”
 
 **Copy of ID Required for Absentee Voting?**: No
@@ -2925,8 +2829,6 @@ If ID is not presented, the voter provides name and address and signs an affidav
 **Absentee/Mail Application Due Date**: In Person: Received October 28, 2020, By Mail: Received October 28, 2020, Online: N/A
 
 **Deadline To Submit Absentee/Mail Ballot**: Five days after the election if postmarked on or before November 3, 2020.
-
-**Ballot Drop Box?**: Unknown
 
 **Postage Paid?**: “(e)(1) Within one day after the official designated to supervise and conduct absentee voting has both the completed application and the ballot, the official shall mail to the voter at the address given on the application the following items as required and as prescribed by the Secretary of General Voting Info: ….(C) One postage paid envelope, unsealed, designated “Absent Voter's Ballot Envelope No. 2…”
 
@@ -2986,8 +2888,6 @@ If ID is not presented, the voter provides name and address and signs an affidav
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 (by 8PM)
 
-**Ballot Drop Box?**: Unknown
-
 **Postage Paid?**: “(3)(a)…. If the ballot is mailed, and the ballot qualifies for mailing free of postage under federal free postage laws, the clerk shall affix the appropriate legend required by U.S. postal regulations. Otherwise, the clerk shall pay the postage required for return when the ballot is mailed from within the United States. If the ballot is not mailed by the absentee elector from within the United States, the absentee elector shall provide return postage.”
 
 **Copy of ID Required for Absentee Voting?**: No, but a copy of ID must be included with the absentee ballot application.
@@ -3045,8 +2945,6 @@ If ID is not presented, the voter provides name and address and signs an affidav
 **Absentee/Mail Application Due Date**: In Person: Received November 2, 2020, By Mail: Received November 2, 2020, but we recommend applying at least October 27, 2020, Online: N/A
 
 **Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 (before polls close)
-
-**Ballot Drop Box?**: Unknown
 
 **Postage Paid?**: Unknown
 
