@@ -136,7 +136,7 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 
 **Election Day Registration?**: No
 
-**In-person First Day Of Early Vote**: October 8, 2020
+**In-person First Day Of Early Vote**: October 7, 2020
 
 **In-person Last Day Of Early Voting**: October 30, 2020
 
