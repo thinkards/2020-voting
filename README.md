@@ -2253,7 +2253,7 @@ You may not drop your ballot off at your polling place on election day.
 
 **Notary or Witness Signatures on Return Envelope Required?**: No
 
-**Accept Postmarked Ballots Arriving After November 3, 2020?**: No
+**Accept Postmarked Ballots Arriving After November 3, 2020?**: Yes, as long as they're received before 5 PM on November 6th.
 
 **Signature Mismatch Notification**: N/A
 
