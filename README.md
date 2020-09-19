@@ -1322,7 +1322,7 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 
 **Notary or Witness Signatures on Return Envelope Required?**: No
 
-**Accept Postmarked Ballots Arriving After November 3, 2020?**: No
+**Accept Postmarked Ballots Arriving After November 3, 2020?**: Yes; ballots that are postmarked by November 2 and received before the ballot certification deadline (14 days after election day) will be counted.
 
 **Signature Mismatch Notification**: If a ballot affidavit is found in error, the voter is contacted and provided an opportunity to visit the clerk's office or request a replacement ballot should time allow.
 
