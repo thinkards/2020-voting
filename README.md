@@ -1759,7 +1759,7 @@ You may not drop your ballot off at your polling place on election day.
 
 **Ballot Tracker**: N/A
 
-**Voter Registration Deadline(s)**: In Person: October 13, 2020, By Mail: Postmarked October 13, 2020, Online: N/A
+**Voter Registration Deadline(s)**: In Person: October 13, 2020, By Mail: Postmarked October 13, 2020, Online: October 13th, 2020
 
 **Election Day Registration?**: No
 
@@ -2886,7 +2886,7 @@ If ID is not presented, the voter provides name and address and signs an affidav
 
 **Absentee/Mail Application Due Date**: In Person: Received October 29, 2020, By Mail: Received October 29, 2020, Online: Received October 29, 2020
 
-**Deadline To Submit Absentee/Mail Ballot**: November 3, 2020 (by 8PM)
+**Deadline To Submit Absentee/Mail Ballot**: Ballots can be received by Novermber 9, 2020 as long as they are postmarked November 3, 2020.
 
 **Postage Paid?**: “(3)(a)…. If the ballot is mailed, and the ballot qualifies for mailing free of postage under federal free postage laws, the clerk shall affix the appropriate legend required by U.S. postal regulations. Otherwise, the clerk shall pay the postage required for return when the ballot is mailed from within the United States. If the ballot is not mailed by the absentee elector from within the United States, the absentee elector shall provide return postage.”
 
@@ -2894,7 +2894,7 @@ If ID is not presented, the voter provides name and address and signs an affidav
 
 **Notary or Witness Signatures on Return Envelope Required?**: Yes; the ballot must be voted in the presence of a witness, who signs an affidavit on the absentee ballot envelope.
 
-**Accept Postmarked Ballots Arriving After November 3, 2020?**: No
+**Accept Postmarked Ballots Arriving After November 3, 2020?**: Yes.  
 
 **Signature Mismatch Notification**: Municipal clerks return any deficient absentee ballot envelopes with a new envelope to the voter.
 
