@@ -1955,7 +1955,7 @@ You may not drop your ballot off at your polling place on election day.
 
 **Absentee/Mail Application Due Date**: In Person: Received by 5pm October 27, 2020, By Mail: Received by 5pm October 27, 2020, Online: N/A
 
-**Deadline To Submit Absentee/Mail Ballot**: Three days after the election if postmarked on or before November 3, 2020.
+**Deadline To Submit Absentee/Mail Ballot**: NC absentee by mail ballots post-marked by 5 PM on November 3, 2020 can now be received up to 5 PM on November 12, 2020
 
 **Postage Paid?**: Unknown
 
