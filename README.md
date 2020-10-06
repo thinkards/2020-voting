@@ -132,7 +132,7 @@ If no ID is presented, 2 election officials can sign an affidavit attesting to t
 
 [Drop Off Locator](https://www.dropoffballot.com/#7/35/-113)
 
-**Voter Registration Deadline(s)**: In Person: October 5, 2020, By Mail: Postmarked October 5, 2020, Online: October 5, 2020
+**Voter Registration Deadline(s)**: In Person: October 23, 2020, By Mail: Postmarked October 23, 2020, Online: October 23, 2020
 
 **Election Day Registration?**: No
 
